@@ -46,7 +46,6 @@ Rock-Paper-Scissors game rules:
 
 These rules ensure a balanced game where each choice has a specific strength and weakness.
 Outputs:
-
-![Screenshot (129)](https://github.com/user-attachments/assets/aeafa517-0e43-48ec-86f3-82a472c0d06a)
-![Screenshot (130)](https://github.com/user-attachments/assets/3c6c30f6-03b5-40cb-91d6-84f4cebd62eb)
-![Screenshot (128)](https://github.com/user-attachments/assets/a5191a6d-853e-46c9-9704-d0cb407a2494)
+![Screenshot (130)](https://github.com/user-attachments/assets/d013eaf6-902c-43b2-bcf5-9b8a4e50099b)
+![Screenshot (129)](https://github.com/user-attachments/assets/991be867-31d1-4af1-afbd-e5bba86f4730)
+![Screenshot (128)](https://github.com/user-attachments/assets/55c432b2-026c-4f0b-b357-98839205ec5d)
